@@ -8,8 +8,7 @@ Team Members:
 
 
 
-Portal Link given below.
+Portal Link given below:
 https://upload-charm-keeper.lovable.app
-
-invoice Extraction Agent developed in n8n to be shared. click on the given below link to open the video presentation of the agent.  
+video presentation:  
 https://drive.google.com/file/d/1VrFLlaigq92A-57CdSnKNuwGheJN2ZEC/view?usp=sharing
