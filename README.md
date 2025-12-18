@@ -8,7 +8,7 @@ Team Members:
 
 
 
-Portal Link given below:
+Portal Link:
 https://upload-charm-keeper.lovable.app
 
 
